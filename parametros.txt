@@ -1,0 +1,16 @@
+C = 0 -500 500
+N = 0 1 -1
+V = 0 -1 -1
+fovy = 45
+aspect = 1.33
+near = 5
+far = 10000
+Pl = 0 500 200
+Cor ambiental da luz = 0.4 0.4 0.4 1.0
+Cor difusa da luz = 0.5 0.85 1.0 1.0
+Cor especular da luz = 0.5 0.85 1.0 1.0
+Cor ambiental do material = 0.2 0.2 0.2 1.0
+Cor difusa do material = 0.7 0.5 0.8 1.0
+Cor especular do material = 0.5 0.5 0.5 1.0
+Cor emissiva do material = 0.0 0.0 0.0 1.0
+shininess = 100
